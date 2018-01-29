@@ -38,6 +38,6 @@ _使用方法：_
 ### 2. `cd react-webridge-master` 进入项目目录
 ### 3. `npm install` 安装依赖
 ### 4. `npm start` 运行项目
-
+### 5. 打开浏览器地址栏输入 `http://localhost:8080` 
 
 
