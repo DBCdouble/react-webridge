@@ -6,10 +6,8 @@ react + redux + webpack + ES6 +ant
 |--app （开发目录）    
 |&emsp;&emsp;|-------components（组件目录）  
 |&emsp;&emsp;|-------constants  （组件目录）  
-|&emsp;&emsp;|-------containers （组件容器）
-
-|&emsp;&emsp;|-------redux （redux配置）
-
+|&emsp;&emsp;|-------containers （组件容器）<br/>
+|&emsp;&emsp;|-------redux （redux配置）<br/>
 |&emsp;&emsp;|-------routes （路由配置）  
 |&emsp;&emsp;|-------static （存放静态文件，图片等）  
 |&emsp;&emsp;|-------index.tmpl.html （html模板文件）  
