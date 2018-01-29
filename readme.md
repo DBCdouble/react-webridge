@@ -1,16 +1,19 @@
-# react + es6 + webpack 架构模板
+# 技术栈:
+react + redux + webpack + ES6 +ant
 
 <font color="#0099ff" size=12  face="微软雅黑">项目目录结构</font>
 -----------------
 |--app （开发目录）    
-|&emsp;&emsp;|-------common（公共文件，例如css,工具代码等)  
-|&emsp;&emsp;|-------components  (组件目录)  
-|&emsp;&emsp;|-------pages （页面目录,例如可以存放首页，分类页，个人中心等页面）  
+|&emsp;&emsp;|-------components（组件目录)  
+|&emsp;&emsp;|-------constants  (组件目录)  
+|&emsp;&emsp;|-------containers （组件容器）
+|&emsp;&emsp;|-------redux （包括action、reducer、store的配置）
+|&emsp;&emsp;|-------routes （路由配置）  
 |&emsp;&emsp;|-------static （存放静态文件，图片等）  
-|&emsp;&emsp;|-------build (打包输出目录)  
 |&emsp;&emsp;|-------index.tmpl.html (html模板文件)  
 |&emsp;&emsp;|-------main.js （入口文件，可以在webpack.config.js中配置）  
 |  
+|-------|-build (打包输出目录)  
 |-------|-node_module （nodejs模块）    
 |-------|-package.json （npm 配置文件）   
 |-------|-webpack.config.js （webpack 配置文件）   
