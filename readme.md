@@ -11,7 +11,7 @@ react + redux + webpack + ES6 +ant
 
 |&emsp;&emsp;|-------containers （组件容器）
 
-|&emsp;&emsp;|-------redux （包括action、reducer、store配置）
+|&emsp;&emsp;|-------redux （包括action、reducer、store的配置）
 
 |&emsp;&emsp;|-------routes （路由配置）  
 
