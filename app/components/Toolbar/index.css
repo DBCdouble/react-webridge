@@ -1,0 +1,9 @@
+.btn-add{
+    background-color: #6f001b !important;
+    float:left !important;
+}
+.example-input{
+    width: 200px !important;
+    float: right !important;
+    margin: 0 8px 8px 0 !important;
+}
