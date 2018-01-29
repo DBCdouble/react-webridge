@@ -22,7 +22,7 @@ _使用方法：_
 -----------------
 
 ### 1. `git clone https://github.com/DBCdouble/react-webridge.git`
-### 2. `cd react-template` 进入项目目录
+### 2. `cd react-webridge-master` 进入项目目录
 ### 3. `npm install` 安装依赖
 ### 4. `npm start` 运行项目
 
