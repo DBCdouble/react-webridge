@@ -7,7 +7,7 @@ react + redux + webpack + ES6 +ant
 
 |&emsp;&emsp;|-------components（组件目录）  
 
-|&emsp;&emsp;|-------constants  （组件目录） 
+|&emsp;&emsp;|-------constants  （action的类型常量定义） 
 
 |&emsp;&emsp;|-------containers （组件容器）
 
